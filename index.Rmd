@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 
 <br/><br/>
 
-Una de las principales caracteristicas de una variable aleatoria es su función de probabilidad $f(x)$, la cual determina su valor esperado, varianza y además permite calcular tanto probabilidades puntuales en el caso de las varables discretas como tambien probabilidades en intervalos  tanto para variables aleatorias discretas como para variables continuas.
+Una de las principales características de una variable aleatoria es su función de probabilidad $f(x)$, la cual determina su valor esperado, varianza y además permite calcular tanto probabilidades puntuales en el caso de las variables discretas como también probabilidades en intervalos  tanto para variables aleatorias discretas como para variables continuas.
 
 <br/>
 
@@ -84,7 +84,7 @@ e. Realice un informe con los resultados obtenidos
 ## <span style="color:#034A94">**Partes defectuosas**</span>
 
 
-Victor distribuye partes para motocicletas, y se estima que cada una de ellas tiene una probabilidad de $0.03$ de estar defectuosa. José  tambien distribuye partes semejantes  y su producto tiene  una probabilidad de $0.05$ de estar defectuoso. Usted recibe un envío de $100$ partes procedente de cada vendedor (Victor  y José). 
+Victor distribuye partes para motocicletas, y se estima que cada una de ellas tiene una probabilidad de $0.03$ de estar defectuosa. José  también distribuye partes semejantes  y su producto tiene  una probabilidad de $0.05$ de estar defectuoso. Usted recibe un envío de $100$ partes procedente de cada vendedor (Victor  y José). 
 
 ```{r, echo=FALSE, out.width="45%", fig.align = "center"}
 knitr::include_graphics("img/moto.png")
@@ -136,7 +136,7 @@ Ejercicios tomados de Navidi(2006)
 <br/>
 
 
-* **as.numeric** : Se utiliza para convertir un objeto en un tipo de dato numérico. Ej.: `as.numeric(c("1.2", "2.5", "3.9"))`. Tambien puede ser utilizada para la construcción de vector de ceros y unos. Coloca uno cuando se cumple una condición y ceros cuando no se cumple. Ej.: `x= 1:20 as.numeric(x > 10)`.
+* **as.numeric** : Se utiliza para convertir un objeto en un tipo de dato numérico. Ej.: `as.numeric(c("1.2", "2.5", "3.9"))`. También puede ser utilizada para la construcción de vector de ceros y unos. Coloca uno cuando se cumple una condición y ceros cuando no se cumple. Ej.: `x= 1:20 as.numeric(x > 10)`.
 
 <br/>
 
@@ -198,7 +198,7 @@ Ejercicios tomados de Navidi(2006)
 
 <br/>
 
-* **table** : Se utiliza para construir una tabla de freciencias para una variable cualitativa. Ej.; `table(x)` .
+* **table** : Se utiliza para construir una tabla de frecuencias para una variable cualitativa. Ej.; `table(x)` .
 
 <br/>
 
